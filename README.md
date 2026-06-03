@@ -1,6 +1,12 @@
 # Ultrasound Multi-Task Learning (MiT + Faster R-CNN)
 
+[![ISBI 2026](https://img.shields.io/badge/ISBI-2026-red)](https://biomedicalimaging.org/)
+
+**A Unified Multi-Task Learning Framework for Ultrasound Image Analysis**  
+*Accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2026*
+
 Shared-backbone multi-task training and task-type–specialized fine-tuning for **Foundation Model Challenge for Ultrasound Image Analysis (FMC_UIA)**–style benchmarks. Backbone: **MiT-B5** (`mit_b5`); detection heads use **Faster R-CNN**–style components where applicable.
+
 
 **[中文说明 → README.zh.md](README.zh.md)**
 
